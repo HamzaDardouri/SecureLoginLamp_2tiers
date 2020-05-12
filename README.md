@@ -11,8 +11,8 @@ Après,tu dois cloner ce projet sur votre machine serveur (Apache+PHP) en utilis
 git clone https://github.com/HamzaDardouri/SecureLoginLamp_2tiers.git
 
 Puis,tu dois déplacer les 2 fichiers .sh (bash script file) sur votre dossier personnelle ~ ou /home/<nom_user> 
-en utilisant cette commande sur votre répertoire personnelle :
-mv  ~/SecureLoginLamp_2tiers/deployer.sh  ~/SecureLoginLamp_2tiers/deployer2.sh  ~/
+
+mv  ~/SecureLoginLamp_2tiers/deployer.sh   ~/SecureLoginLamp_2tiers/deployer2.sh   ~/
 
 On passe vers l'execution:
 Rendre le fichier deployer.sh exécutable à travers cette commande (votre répertoire personnelle sur la machine (Apache+PHP)):
