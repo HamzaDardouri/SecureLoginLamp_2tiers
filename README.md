@@ -27,6 +27,10 @@ Enfin, Exécutez cette fichier à travers cette commande:
 
 ./deployer.sh
 
+Et executer deployer2.sh sur l'autre machine(Mysql):
+
+./deployer2.sh
+
 
 Pour tester :ouvrez ton navigateur et saisissez cette lien:
 
