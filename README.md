@@ -1,7 +1,7 @@
 # SecureLoginLamp_2tiers
 It' for test Lamp_2tiers
 
-Tou d'abord,On ouvre les 2 machines (Apache+PHP) et (Mysql),Connectez-vous sur les 2 machines.
+Tout d'abord,On ouvre les 2 machines (Apache+PHP) et (Mysql),Connectez-vous sur les 2 machines.
 Notre configuration au niveau adresses IP est la suivante:
 VM(Apache+PHP):192.168.56.21
 VM(Mysql):192.168.56.23
