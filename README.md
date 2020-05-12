@@ -21,3 +21,22 @@ chmod +x deployer.sh
 Enfin, Exécutez cette fichier à travers cette commande:
 
 ./deployer.sh
+
+Pour tester :ouvrez ton navigateur et saisissez cette lien:
+http://192.168.56.21/SecureLogin
+Tapez comme login username soit test ou hamza et comme mot de passe soit 123456 ou hamza.
+
+Pour que tu puisse ajouter plusieurs utilisateurs, connectez vous sur votre VM(Mysql) et entrez comme devops:
+mysql -u devops -p
+Mot de passe:devops
+use login;
+Pour inserer, voilà un exemple du requete d'insertion pour un nouveau utilisateur.
+insert into accounts (id,username,password,email) values (3,'aaaaaa','aaaaaaaa','aaaa@aaaa.com');
+
+Tu peut créer une infinité des utulisateurs.
+
+#Profitez-en.
+Merci pour votre lecture à la fin du page.
+Aurevoir.
+
+
